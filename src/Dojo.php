@@ -4,8 +4,8 @@ namespace App;
 
 class Dojo
 {
-    public function test()
+    public function getClosestTemperatureToZero($measurementCount, $measurements): Int
     {
-        return true;
+        return 0;
     }
 }
